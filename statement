@@ -1,0 +1,27 @@
+# Project Statement
+
+## Problem Statement
+
+Educational institutions need to maintain information about students such as student ID, name, course, age, and marks. Managing these records manually can make storing, searching, and organizing information difficult.
+
+The Student Management System provides a simple Python-based solution for managing basic student records.
+
+## Scope
+
+The system can add, view, search, and delete student records. Student information is stored in a JSON file.
+
+## Target Users
+
+- Students learning Python
+- Teachers demonstrating basic record management
+- Small educational projects
+
+## High-Level Features
+
+1. Add student
+2. View students
+3. Search student
+4. Delete student
+5. Store records in JSON
+6. Validate basic input
+7. Test core operations
